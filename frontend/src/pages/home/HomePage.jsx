@@ -43,7 +43,7 @@ const HomePage = () => {
             <Topbar /> {/* Header của trang */}
             <ScrollArea className='h-[calc(100vh-180px)]'> {/* Vùng cuộn của nội dung chính */}
                 <div className='p-4 sm:p-6'>
-                    <h1 className='text-2xl sm:text-3xl font-bold mb-6'>Good afternoon</h1> {/* Tiêu đề chào người dùng */}
+                    <h1 className='text-2xl sm:text-3xl font-bold mb-6'>Have a good day !</h1> {/* Tiêu đề chào người dùng */}
                     <FeaturedSection /> {/* Phần hiển thị các bài hát nổi bật */}
 
                     <div className='space-y-8'>
