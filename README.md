@@ -1,6 +1,6 @@
 <h1 align="center">  🎵 Music App 🎵  </h1>
 
-![Demo App](\frontend\img\Admin.png)
+![Demo App](/frontend/img/Admin.png)
 ![Demo App](\frontend\img\list.png)
 ![Demo App](\frontend\img\Admin.png)
 
