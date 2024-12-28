@@ -5,8 +5,8 @@
 ![Demo App](/frontend/img/Admin.png)
 
 
-TỔNG QUAN   
-
+### TỔNG QUAN   
+```bash
 🎵 Nghe nhạc, chuyển bài hát kế tiếp và bài trước
 📶 Điều chỉnh âm lượng bằng thanh trượt
 🖥️ Bảng quản trị để tạo album và bài hát
@@ -14,7 +14,7 @@ TỔNG QUAN
 🌐 Trạng thái Online/Offline
 🔍 Xem người dùng khác đang nghe gì theo thời gian thực
 📉 Tổng hợp dữ liệu cho trang phân tích
-
+```
 ### tạo .env file trong _backend_ folder
 
 ```bash
