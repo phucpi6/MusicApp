@@ -30,7 +30,7 @@ CLOUDINARY_CLOUD_NAME=...
 
 CLERK_PUBLISHABLE_KEY=...
 CLERK_SECRET_KEY=...
-```
+
 info Demo------Demo
 <!-- PORT=4000
 MONGODB_URI=mongodb+srv://sstgau70:9lUJtKwXO5iFnRC6@cluster0.h1hxw.mongodb.net/MyAppMusicSpotify?retryWrites=true&w=majority&appName=Cluster0
@@ -46,11 +46,15 @@ CLOUDINARY_CLOUD_NAME=dgpt6x6wf
 
 CLERK_PUBLISHABLE_KEY=pk_test_bGlnaHQtbGFiLTIwLmNsZXJrLmFjY291bnRzLmRldiQ
 CLERK_SECRET_KEY=sk_test_zAqZsLh671nY2ngfHZm0iTIfzFNk8yrKrgAlEU9NpZ -->
+```
+
+
 ### tạo .env.local file trong _frontend_ folder
 
 ```bash
 VITE_CLERK_PUBLISHABLE_KEY=...
-```
+
 
 <!-- VITE_CLERK_PUBLISHABLE_KEY=pk_test_bGlnaHQtbGFiLTIwLmNsZXJrLmFjY291bnRzLmRldiQ -->
+```
 #
